@@ -45,12 +45,7 @@ Designed to help business stakeholders:
 
 ---
 
-## 📸 Dashboard Previews
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
-![KPI Cards](Screenshots/kpi_cards.png)
 
----
 
-## 📂 File Structure
 
